@@ -1,5 +1,5 @@
 
- Project Title: HR Analytics Dashboard using Power BI
+ Project Title: HR Analytics Dashboard 
  
 Objective:
 
