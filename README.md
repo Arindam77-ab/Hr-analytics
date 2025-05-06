@@ -1,4 +1,4 @@
-# Hr-analytics
+Project name - Hr-analytics
 The HR Analytics Dashboard provides a comprehensive overview of key human resource metrics to help HR managers and leadership teams make data-driven decisions. It visualizes workforce trends and performance indicators in an intuitive and interactive format, focusing on critical HR domains such as recruitment, employee performance, diversity, retention, and overall workforce planning.
 
 Key Features:
